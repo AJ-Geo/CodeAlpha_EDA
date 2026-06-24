@@ -1,4 +1,4 @@
-# Restaurant Data Analysis Project
+# Zomato Restaurant Data Analysis
 
 This project was completed as part of the CodeAlpha Data Analytics Internship.
 
